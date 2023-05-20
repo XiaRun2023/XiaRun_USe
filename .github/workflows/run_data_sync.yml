@@ -27,7 +27,7 @@ env:
   MIN_GRID_DISTANCE: 6 # change min distance here
   TITLE_GRID: Over 6.0km Runs # also here
   GITHUB_NAME: XiaRun2023 
-  GITHUB_EMAIL:  133036470+XiaRun2023@users.noreply.github.com
+  GITHUB_EMAIL:  yfxia2020@ion.ac.cn
 
 jobs:
   sync:
